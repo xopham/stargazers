@@ -20,7 +20,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/xophham/stargazers/fetch"
+	"github.com/xopham/stargazers/fetch"
 	"github.com/spf13/cobra"
 )
 
